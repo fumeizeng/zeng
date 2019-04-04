@@ -1,2 +1,3 @@
 ﻿This is the first git version test.
 Add a new line.
+现在来测试暂存区。
